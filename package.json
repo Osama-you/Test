@@ -1,0 +1,20 @@
+{
+  "name": "morning-challenge2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server",
+    "test": "tape test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "env2": "^2.2.2"
+  }
+}
